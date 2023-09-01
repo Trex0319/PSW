@@ -1,0 +1,77 @@
+.D1 {
+  font-size: 65px;
+  margin-bottom: 40px;
+  margin-top: 50px;
+}
+
+.D2 {
+  font-size: 20px;
+}
+
+.D3 {
+  font-size: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.D3 button {
+  border-radius: 100px;
+}
+
+.D4 {
+  margin-top: 20px;
+  margin-bottom: 100px;
+}
+
+.D5 {
+  margin-top: 30px;
+  margin-bottom: 100px;
+}
+
+.D6 {
+  background-color: whitesmoke;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.sec-five {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.sec-five .col-lg-7 {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.six {
+  background-color: whitesmoke;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.six .col-lg-5 {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.seven {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.seven .col-lg-7 {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.last {
+  background-color: whitesmoke;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.last .col-lg-5 {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
